@@ -3,7 +3,7 @@
   "name": "Hello Service Worker",
   "version": "2",
   "app": {
-    "background": {
+    "service_worker": {
       "scripts": ["main.js"]
     }
   }
