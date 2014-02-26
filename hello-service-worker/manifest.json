@@ -4,7 +4,7 @@
   "version": "2",
   "app": {
     "service_worker": {
-      "scripts": ["main.js"]
+      "script": "main.js"
     }
   }
 }
